@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Test project for BlackDuck/Polaris: vulnerable components as both direct and transitive dependencies",
   "dependencies": {
-    "minimist": "1.2.5",
+    "minimist": "1.2.8",
     "mkdirp": "0.5.5",
     "qs": "6.7.0",
     "express": "4.17.1"
