@@ -4,3 +4,5 @@ blackducksca.json
 node_modules/
 bridge.log
 diagnostics.json
+input.json
+2026*
