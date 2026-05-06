@@ -1,0 +1,10 @@
+// Polaris SAST Fix PR demo (mock-issue-explainer)
+// Issue: Use of Hard-coded Credentials
+// CWE: CWE-798
+// Original file: resources/security_settings/secconfig.cfg
+// Original line: 79
+// Language: Text
+// Checker: SIGMA.hardcoded_secret
+// In production, the real Issue Explainer service would return a
+// patch that modifies the original file directly to remediate the issue.
+
