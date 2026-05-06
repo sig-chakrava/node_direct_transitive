@@ -1,0 +1,10 @@
+// Polaris SAST Fix PR demo (mock-issue-explainer)
+// Issue: Improper Control of Dynamically-Managed Code Resources
+// CWE: CWE-913
+// Original file: resources/apache_struts/struts.xml
+// Original line: 30
+// Language: Text
+// Checker: SIGMA.dynamic_method_invocation
+// In production, the real Issue Explainer service would return a
+// patch that modifies the original file directly to remediate the issue.
+
